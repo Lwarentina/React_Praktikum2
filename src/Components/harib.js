@@ -4,7 +4,9 @@ class Hari extends React.Component {
     render() {
         return(
             <div>
-                <h2>ini hari</h2>
+                <div class="text-center">
+                    <h2 class="justify">Hari Besar</h2>
+                </div>
             </div>
         )
     }
